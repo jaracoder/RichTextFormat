@@ -1,4 +1,4 @@
-# RTF
+# Rich Text Format (RTF)
 
 `{\rtf}`: Es la etiqueta de apertura que indica el inicio de un documento RTF.
 
